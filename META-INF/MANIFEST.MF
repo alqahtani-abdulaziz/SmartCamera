@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Class-Path: azure-servicebus-0.8.3.jar azure-core-0.8.3.jar httpclient
+ -4.3.6.jar httpcore-4.3.3.jar commons-logging-1.1.1.jar commons-codec
+ -1.6.jar commons-lang-2.6.jar mail-1.4.5.jar activation-1.1.jar javax
+ .inject-1.jar jersey-client-1.13.jar jersey-core-1.13.jar jersey-json
+ -1.13.jar jettison-1.1.jar stax-api-1.0.1.jar jaxb-impl-2.2.3-1.jar j
+ axb-api-2.2.2.jar stax-api-1.0-2.jar jackson-core-asl-1.9.2.jar jacks
+ on-mapper-asl-1.9.2.jar jackson-jaxrs-1.9.2.jar jackson-xc-1.9.2.jar 
+ gson-2.8.0.jar
+Main-Class: Simulation
+
